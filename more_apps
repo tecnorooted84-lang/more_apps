@@ -1,0 +1,30 @@
+{
+  "status": true,
+  "message": "Apps loaded successfully",
+  "apps": [
+    {
+      "app_name": "Speech To Text",
+      "package_name": "com.yourcompany.speechtotext",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/speech_to_text_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/speech_to_text_icon.png"
+    },
+    {
+      "app_name": "AI Voice Keyboard",
+      "package_name": "com.yourcompany.aivoicekeyboard",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/ai_voice_keyboard_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/ai_voice_keyboard_icon.png"
+    },
+    {
+      "app_name": "Voice Notes",
+      "package_name": "com.yourcompany.voicenotes",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/voice_notes_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/voice_notes_icon.png"
+    },
+    {
+      "app_name": "Text To Speech",
+      "package_name": "com.yourcompany.texttospeech",
+      "app_cover_url": "https://raw.githubusercontent.com/username/repository/main/covers/text_to_speech_cover.png",
+      "app_icon_url": "https://raw.githubusercontent.com/username/repository/main/icons/text_to_speech_icon.png"
+    }
+  ]
+}
